@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Durán Canedo</h1>
-<h3 align="center">A student of System Engineer in the Cali,Colombia</h3>
+<h3 align="center">A student of System Engineer in the Cali,Colombia</h3>    <p align="left"> <img src="https://komarev.com/ghpvc/?username=habolanos&label=Profile%20views&color=0e75b6&style=flat" alt="habolanos" /> </p>
+
 
 - 🌱 I’m currently learning **Fronted and Java**
 
